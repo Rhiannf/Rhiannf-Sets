@@ -29,6 +29,7 @@ public class Lab {
      * @return the size of set. (number of values)
      */
     public int getSize(Set<Integer> set){
+        
         return 0;
     }
 
